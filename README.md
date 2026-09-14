@@ -1,5 +1,7 @@
 # E-commerce-lakehouse
+
 E-commerce Data Engineering project using Databricks and Medallion Architecture
+
 ## 📌 Project Overview
 
 This project implements an end-to-end e-commerce data engineering pipeline using Databricks and SQL.

@@ -9,3 +9,11 @@ This project implements an end-to-end e-commerce data engineering pipeline using
 The project follows the Medallion Architecture, where raw e-commerce data is progressively transformed through Bronze, Silver, and Gold layers.
 
 The goal is to clean, transform, and aggregate the data into analytical tables that can be used to understand sales, customers, products, categories, and payment performance.
+
+## 🏗️ Architecture
+
+## 🛠️ Technologies Used
+- Databricks
+- SQL
+- Delta Lake
+- Medallion Architecture

@@ -17,3 +17,30 @@ The goal is to clean, transform, and aggregate the data into analytical tables t
 - SQL
 - Delta Lake
 - Medallion Architecture
+
+## 📂 Data Layers
+
+### Bronze Layer(Raw Ingestion)
+The landing zone storing source data in its original, immutable format.
+-df_Customers
+-df_OrderItems
+-df_Orders
+-df_Payments
+-df_Products
+
+### Silver Layer(Cleaned & Conformed)
+Cleansed, deduplicated, and enriched data modeled into unified, query-ready tables.
+-Deduplication & Validation.
+-Handling Nulls & Outliers.
+
+### Gold Layer
+Curated, high-performance analytical tables aggregated for BI dashboards and executive reporting.
+- Daily Sales
+- Customer Performance
+- Product Performance
+- Category Performance
+- Payment Performance
+
+
+
+

@@ -43,12 +43,12 @@ Tables:
 - Category Performance
 - Payment Performance
 
-  ### 🔍 Final Data Quality Check
-  To ensure the reliability, accuracy, and readiness of the analytical datasets
-  - Duplicate Checks.
-  - NULL Checks.
-  - Negative Values Check.
-  - Business Logic Checks.
+  ### Final Data Quality Check
+To ensure the reliability, accuracy, and readiness of the analytical datasets
+ - Duplicate Checks.
+ - NULL Checks.
+ - Negative Values Check.
+ - Business Logic Checks.
 
 ## 📊 Gold Layer Analytics
 - Daily Sales:

@@ -31,8 +31,8 @@ Tables:
 
 ### Silver Layer(Cleaned & Conformed)
 Cleansed, deduplicated, and enriched data modeled into unified, query-ready tables.
--Deduplication & Validation.
--Handling Nulls & Outliers.
+- Deduplication & Validation.
+- Handling Nulls & Outliers.
 
 ### Gold Layer(Aggregated Business Analytics)
 Curated, high-performance analytical tables aggregated for BI dashboards and executive reporting.

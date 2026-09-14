@@ -43,6 +43,14 @@ Tables:
 - Category Performance
 - Payment Performance
 
-
-
-
+## 📊 Gold Layer Analytics
+- Daily Sales:
+  Daily Business Health.
+- Customer Performance:
+  Customer Value & Retention.
+- Product Performance:
+  Product Profitability & Demand.
+- Category Performance:
+  Category Contribution & Growth.
+- Payment Performance:
+  Payment Health & Reliability

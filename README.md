@@ -62,4 +62,18 @@ To ensure the reliability, accuracy, and readiness of the analytical datasets
 - Payment Performance:
   Payment Health & Reliability
 
-  
+  ## 🚀 How to Run
+
+1. Download the project files from this GitHub repository.
+
+2. Open your Databricks workspace.
+
+3. Import the notebooks into Databricks.
+
+4. Upload or connect the required source data.
+
+5. Run the notebooks in the following order:
+
+   **Bronze → Silver → Gold → Final Data Quality Check**
+
+6. The Gold layer will produce the final analytical tables in Databricks

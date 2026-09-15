@@ -37,6 +37,7 @@ Cleansed, deduplicated, and enriched data modeled into unified, query-ready tabl
 
 ### Gold Layer(Aggregated Business Analytics)
 Curated, high-performance analytical tables aggregated for BI dashboards and executive reporting.
+
 Tables:
 - Daily Sales.
 - Customer Performance.

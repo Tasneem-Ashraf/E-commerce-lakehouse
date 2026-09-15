@@ -64,7 +64,7 @@ To ensure the reliability, accuracy, and readiness of the analytical datasets
 - Payment Performance:
   Payment Health & Reliability
 
-  ## 🚀 How to Run
+## 🚀 How to Run
 
 1. Download the project files from this GitHub repository.
 

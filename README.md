@@ -22,6 +22,7 @@ The goal is to clean, transform, and aggregate the data into analytical tables t
 
 ### Bronze Layer(Raw Ingestion)
 The landing zone storing source data in its original, immutable format.
+
 Tables:
 - df_Customers
 - df_OrderItems
